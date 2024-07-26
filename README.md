@@ -12,8 +12,15 @@
       <li>😄 Pronouns: He/Him</li>
       <li>⚡ Fun fact: I’m always exploring new tech trends and experimenting with creative coding solutions.</li>
     </ul>
-    <p>Connect with me:</p>
-    <a href="https://www.instagram.com/irshad__v?igsh=Mm9vbmhwYXNkYWU2" target="_blank">Instagram</a>
+    <div style="text-align: center; margin-top: 20px;">
+      <a href="https://www.instagram.com/___irshad___v/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width: 40px; height: 40px;" />
+      </a>
+      <br />
+      <a href="https://www.instagram.com/___irshad___v/" target="_blank">Instagram</a>
+    </div>
+    <br />
+
   </div>
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
