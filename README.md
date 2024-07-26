@@ -13,14 +13,9 @@
       <li>⚡ Fun fact: I’m always exploring new tech trends and experimenting with creative coding solutions.</li>
     </ul>
     <p>Connect with me:</p>
-    <a href="https://www.instagram.com/irshad__v?igsh=Mm9vbmhwYXNkYWU2" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width: 30px; height: 30px; vertical-align: middle;" />
-    </a>
-    <span> <a href="https://www.instagram.com/irshad__v?igsh=Mm9vbmhwYXNkYWU2" target="_blank">Instagram</a></span>
-    <br />
-    <span>WhatsApp: <a href="tel:+919526388849">+91 95263 88849</a></span>
+    <a href="https://www.instagram.com/irshad__v?igsh=Mm9vbmhwYXNkYWU2" target="_blank">Instagram</a>
   </div>
-  <img src="[https://via.placeholder.com/150](https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966)" alt="Muhammed Irshad V" style="border-radius: 50%;" />
+  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 
 Feel free to check out my repositories and reach out if you want to connect or collaborate!
